@@ -1,0 +1,16 @@
+.color-title{
+    font-weight: normal;
+}
+#yellow{
+    color: yellow;
+}
+#blue{
+    color: blue;
+}
+#red{
+    color: red;
+}
+img{
+    width: 200px;   
+    height: 200px;
+}
